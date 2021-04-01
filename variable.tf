@@ -1,5 +1,5 @@
 variable "Virtual_Machine_name" {
-      default = ["myVM","myVM"] 
+      default = ["eastVM","myVM"] 
     description = "Test Server"
 }
 variable "dc_ips" {
